@@ -1,0 +1,12 @@
+{
+    "name": "Capgemini for PMI",
+    "locales": [
+        "en"
+    ],
+    "s3Bucket": "static.coorpacademy.com/content/capgemini-for-pmi",
+    "videoProvider": "jwplayer",
+    "coreBranches": [
+        "capgemini"
+    ],
+    "brandName": "pmi"
+}
